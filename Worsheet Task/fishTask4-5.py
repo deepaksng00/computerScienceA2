@@ -1,6 +1,7 @@
 # Deepak Singh 13PEA
 # Computer Science Homework Task 4-5
 # Object Orientated Programming (OOP)
+# COMP 3
 
 class Car:
     def __init__(self, registration, make):
